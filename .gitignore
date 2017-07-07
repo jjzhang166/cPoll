@@ -1,0 +1,7 @@
+# Building directory
+build
+
+# Python compile
+*.pyd
+*.pyc
+*.pyo
